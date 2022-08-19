@@ -1,5 +1,5 @@
 # Sobre mim
-- 👋 olá meu nome é @degedgdg
+- 👋 olá meu nome é [email](hc1422505@gmail.com) @degedgdg
 - 👀 eu estou interessado em aprender a programar novas linguagens ...
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch ...
 
